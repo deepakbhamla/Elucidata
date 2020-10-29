@@ -9,7 +9,11 @@
   -  Git clone https://github.com/deepakbhamla/Elucidata.git
   - cd elucidata 
 - Start virtual environment
-  - env\scripts\activate
+  - pip install virtualenv
+  - virtualenv env
+- Install Django packages used in this project
+  - pip install -r requirements.txt
+  
 - Run the Django Server
   - cd backend
   - py manage.py runserver
