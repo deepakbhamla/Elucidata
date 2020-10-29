@@ -11,6 +11,7 @@
 - Start virtual environment
   - pip install virtualenv
   - virtualenv env
+  - env\scripts\activate
 - Install Django packages used in this project
   - pip install -r requirements.txt
   
