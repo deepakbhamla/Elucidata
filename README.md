@@ -1,8 +1,8 @@
 # Elucidata
 
 
-[![Build Status](https://travis-ci.org/deepakbhamla/Elucidata.svg?branch=master)](https://travis-ci.org/deepakbhamla/Elucidata)
-
+[![Build Status](https://appveyor/build/:deepakbhamla/:Elucidata)
+https://appveyor/build/:deepakbhamla/:Elucidata
 #### This is a Complete project in itself in which I used Reactjs for frontend and Django for backend with pandas a data science library..
 ## How To Run 
 - clone the project from Github.
